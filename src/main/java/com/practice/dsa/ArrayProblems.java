@@ -2,6 +2,7 @@ package com.practice.dsa;
 
 import java.util.Arrays;
 
+/*** iterate such that j has to have value of 0 and i simply to every place in the array **/
 public class ArrayProblems {
 
     public void moveZeroes(int[] numbers) {
